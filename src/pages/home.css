@@ -1,0 +1,38 @@
+.container h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: 45rem;
+}
+
+.container .getallPol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.inner h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner .show {
+  margin-left: 40rem;
+}
